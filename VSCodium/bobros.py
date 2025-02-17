@@ -33,6 +33,7 @@ def start():
     quote1 = gr.Image(gr.Point(350, 220), "billium.png")
     quote1.draw(win)
 
+    #yes i really did use the update function example for timer shiz
     for i in range(2):
         # <drawing commands for ith frame>
         gr.update(1)
