@@ -1,4 +1,4 @@
-# losercityRamGen
+# FR33 R4M G3N3RET0R v10000
 that losercity ram generator thing
 
 This thing just makes whatever that video done did
