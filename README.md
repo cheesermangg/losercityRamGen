@@ -7,7 +7,7 @@ Created using graphics.py module in Python
 
 All files are located in VSCodium folder
 
-Code all contained _entirely_ within one python file
+Code all contained _entirely_ within one python file called bobros.py
 
 
 Did you know:
